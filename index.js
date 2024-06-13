@@ -2,7 +2,7 @@ import express from "express";
 import router from "./routes/index.routes.js"; //
 
 const PORT = 3000;
-const DEPLOY_URL = "http:localhost:3000/api/v1";
+const DEPLOY_URL = "https://altacursos-api.onrender.com/api/v1";
 const app = express();
 
 app.use(express.json());
