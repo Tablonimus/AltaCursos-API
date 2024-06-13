@@ -1,0 +1,157 @@
+{
+  "data": {
+    "type": "user",
+    "attributes": {
+      "email": "alumno@email.com"
+    }
+  },
+  "included": [
+    {
+      "type": "profile",
+      "attributes": {
+        "firstname": "Evan Gibraltar",
+        "lastname": "Raymond",
+        "birthday": "04/12/1995",
+        "avatar": "https://gravatar.com/avatar/b877239c250781df488f0ebfc38a36f2?s=400&d=robohash&r=x",
+        "bio": "Aficionado a los viajes. Experto en tocino. Pensador. Fanatico de twitter, Comunicador típico. Estudiante. Aficionado a la cerveza."
+      }
+    },
+    {
+      "type": "social_network",
+      "attributes": {
+        "name": "Github",
+        "url": "https://github.com/yyx990803"
+      }
+    },
+    {
+      "type": "social_network",
+      "attributes": {
+        "name": "Twitter",
+        "url": "https://twitter.com/youyuxi"
+      }
+    },
+    {
+      "type": "social_network",
+      "attributes": {
+        "name": "Facebook",
+        "url": "https://facebook.com/youyuxi"
+      }
+    },
+    {
+      "type": "course",
+      "attributes": {
+        "name": "Fundamentos desarrollo web",
+        "slug": "fundamentos-desarrollo-web",
+        "cover": "https://i.imgur.com/VU6Ppa2.png",
+        "learning": [
+          {
+            "name": "Introducción al desarrollo web",
+            "status": "completed",
+            "videos": {
+              "total": 4,
+              "progress": 4
+            },
+            "assessments": {
+              "total": 5,
+              "progress": 5
+            }
+          },
+          {
+            "name": "HTML y CSS",
+            "status": "completed",
+            "videos": {
+              "total": 6,
+              "progress": 6
+            },
+            "assessments": {
+              "total": 10,
+              "progress": 8
+            }
+          },
+          {
+            "name": "Git y la terminal",
+            "status": "completed",
+            "videos": {
+              "total": 6,
+              "progress": 6
+            },
+            "assessments": {
+              "total": 2,
+              "progress": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "course",
+      "attributes": {
+        "name": "CSS Avanzado",
+        "slug": "css-avanzado",
+        "cover": "https://imgur.com/vFG1IQR.png",
+        "learning": [
+          {
+            "name": "Introducción a CSS Avanzado",
+            "status": "completed",
+            "videos": {
+              "total": 4,
+              "progress": 4
+            },
+            "assessments": {
+              "total": 5,
+              "progress": 3
+            }
+          },
+          {
+            "name": "Pre procesadores CSS",
+            "status": "completed",
+            "videos": {
+              "total": 8,
+              "progress": 8
+            },
+            "assessments": {
+              "total": 4,
+              "progress": 4
+            }
+          },
+          {
+            "name": "Metodologias y flujos de desarrollo",
+            "status": "completed",
+            "videos": {
+              "total": 8,
+              "progress": 8
+            },
+            "assessments": {
+              "total": 6,
+              "progress": 1
+            }
+          },
+          {
+            "name": "Diseño responsivo",
+            "status": "doing",
+            "videos": {
+              "total": 4,
+              "progress": 1
+            },
+            "assessments": {
+              "total": 4,
+              "progress": 0
+            }
+          },
+          {
+            "name": "SVG, animaciones y transiciones",
+            "status": "todo",
+            "videos": {
+              "total": 4,
+              "progress": 0
+            },
+            "assessments": {
+              "total": 4,
+              "progress": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "data": {
+      "id": "4",
+      "type": "course",
+      "attributes": {
+        "name": "Javascript",
+        "slug": "javascript",
+        "description": "<h1>Nonne videmus quanta perturbatio rerum omnium consequatur, quanta confusio?</h1>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <code>Maximus dolor, inquit, brevis est.</code> Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. Tum, Quintus et Pomponius cum idem se velle dixissent, Piso exorsus est. Quod cum accidisset ut alter alterum necopinato videremus, surrexit statim. Duo Reges: constructio interrete. Tria genera bonorum; Et hunc idem dico, inquieta sed ad virtutes et ad vitia nihil interesse. </p>\r\n\r\n<ul>\r\n\t<li>Scientiam pollicentur, quam non erat mirum sapientiae cupido patria esse cariorem.</li>\r\n\t<li>Conclusum est enim contra Cyrenaicos satis acute, nihil ad Epicurum.</li>\r\n\t<li>Multa sunt dicta ab antiquis de contemnendis ac despiciendis rebus humanis;</li>\r\n\t<li>Nihil opus est exemplis hoc facere longius.</li>\r\n\t<li>Si quicquam extra virtutem habeatur in bonis.</li>\r\n\t<li>Alterum significari idem, ut si diceretur, officia media omnia aut pleraque servantem vivere.</li>\r\n</ul>\r\n\r\n\r\n<p>Quaero igitur, quo modo hae tantae commendationes a natura profectae subito a sapientia relictae sint. <code>Sit enim idem caecus, debilis.</code> Ita similis erit ei finis boni, atque antea fuerat, neque idem tamen; Quo tandem modo? Beatus autem esse in maximarum rerum timore nemo potest. Eaedem enim utilitates poterunt eas labefactare atque pervertere. </p>\r\n\r\n<pre>Sit voluptas non minor in nasturcio illo, quo vesci Persas\r\nesse solitos scribit Xenophon, quam in Syracusanis mensis,\r\nquae a Platone graviter vituperantur;\r\n\r\nEx quo intellegitur idem illud, solum bonum esse, quod\r\nhon estum sit, idque esse beate vivere: honeste, id est cum\r\nvirtute, vivere.\r\n</pre>\r\n\r\n\r\n<p>Et harum quidem rerum facilis est et expedita distinctio. Ab his oratores, ab his imperatores ac rerum publicarum principes extiterunt. <code>Tria genera bonorum;</code> Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile. Vidit Homerus probari fabulam non posse, si cantiunculis tantus irretitus vir teneretur; Apud imperitos tum illa dicta sunt, aliquid etiam coronae datum; </p>\r\n\r\n",
+        "enabled": true,
+        "difficulty": "hard",
+        "tag_list": [
+          "Programming",
+          "ES6",
+          "Babel"
+        ],
+        "cover": "https://i.imgur.com/78xQcQq.jpg"
+      }
+    },
+    "included": [
+      {
+        "id": "1",
+        "type": "syllabus_item",
+        "attributes": {
+          "name": "Construir scripts que agreguen funcionalidad a tu página."
+        }
+      },
+      {
+        "id": "2",
+        "type": "syllabus_item",
+        "attributes": {
+          "name": "Consultar y manipular el DOM."
+        }
+      },
+      {
+        "id": "3",
+        "type": "syllabus_item",
+        "attributes": {
+          "name": "Diseñar algoritmos para resolver problemas."
+        }
+      }
+    ]
+  }
+  
+  
